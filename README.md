@@ -49,3 +49,14 @@
 ### Task 4
 
 <img src="Lab_5/Task4.png" alt="Description" width="500" height="300"> 
+
+
+## Lab 6
+
+
+### Task 1
+
+<img src="Lab_6/Task1_1.png" alt="Description" width="500" height="100"> 
+<img src="Lab_6/Task1_2.png" alt="Description" width="500" height="100"> 
+<img src="Lab_6/Task1_3.png" alt="Description" width="500" height="100"> 
+
