@@ -44,8 +44,8 @@
 
 ### Task 2
 
-<img src="Lab_5/Task2.png" alt="Description" width="500" height="300"> 
+<img src="Lab_5/Task2.png" alt="Description" width="500" height="100"> 
 
 ### Task 4
 
-<img src="Lab_5/Task5.png" alt="Description" width="500" height="300"> 
+<img src="Lab_5/Task4.png" alt="Description" width="500" height="300"> 
